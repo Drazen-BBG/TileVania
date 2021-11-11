@@ -323,3 +323,212 @@ Received Import Request.
 Start importing Assets/Sprites/Spikes.png using Guid(0cb12bd4903b48341bdcfeace8c392a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b93f41cec76cd341d5acbeb5baff21d') in 0.015527 seconds 
   Import took 0.020565 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 485.904009 seconds.
+  path: Assets/Tiles
+  artifactKey: Guid(ab15e8ed7712ffe489426c228c4a80d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles using Guid(ab15e8ed7712ffe489426c228c4a80d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b05adeb31b900bbcfffe3e84f20ecd5') in 0.003356 seconds 
+  Import took 0.011350 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 97.260944 seconds.
+  path: Assets/Tiles/Platform Palette.prefab
+  artifactKey: Guid(68ec93e6c214d5e489a3cd1486138223) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/Platform Palette.prefab using Guid(68ec93e6c214d5e489a3cd1486138223) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad92246803f37d69583aaba7697330ae') in 0.046754 seconds 
+  Import took 0.050267 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14358.063665 seconds.
+  path: Assets/Sprites/SPA_Background brown tint.png
+  artifactKey: Guid(ecf7ec7351b7ae64ab0094656be9fe56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/SPA_Background brown tint.png using Guid(ecf7ec7351b7ae64ab0094656be9fe56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29a55591a2eafb1847b1ad97ebfab1ae') in 0.176069 seconds 
+  Import took 0.245264 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 122.521527 seconds.
+  path: Assets/Sprites/SPA_Rock_Grass_Water.png
+  artifactKey: Guid(8e59e924b3aebd44688a2ecdfdfaf72c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/SPA_Rock_Grass_Water.png using Guid(8e59e924b3aebd44688a2ecdfdfaf72c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ab6ce9675a2a2e3af96390f64811790') in 0.108869 seconds 
+  Import took 0.118340 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 127.870204 seconds.
+  path: ProjectSettings/TagManager.asset
+  artifactKey: Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing ProjectSettings/TagManager.asset using Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95df672b4aaba54310d34c83eef51bb8') in 0.024795 seconds 
+  Import took 0.032407 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 181.516031 seconds.
+  path: Assets/Tiles/Background Palette.prefab
+  artifactKey: Guid(63aac154a30ae9949b7a25c06dc68a49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/Background Palette.prefab using Guid(63aac154a30ae9949b7a25c06dc68a49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '137e77a522a8553cc0d1b43932aba192') in 0.102488 seconds 
+  Import took 0.109506 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.025515 seconds.
+  path: Assets/Tiles/SPA_Rock_Grass_Water_19.asset
+  artifactKey: Guid(76ee1640480ce2349a0f4071bf0f44f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/SPA_Rock_Grass_Water_19.asset using Guid(76ee1640480ce2349a0f4071bf0f44f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '294c641affd2d8f26a9404040c1fe9e5') in 0.118924 seconds 
+  Import took 0.124711 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.197646 seconds.
+  path: Assets/Tiles/SPA_Background brown tint_0.asset
+  artifactKey: Guid(984e996834567f2429e127da2c78283d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/SPA_Background brown tint_0.asset using Guid(984e996834567f2429e127da2c78283d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f454811d9958b2c1ccd90c90d2c3e93') in 0.018430 seconds 
+  Import took 0.024026 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.824163 seconds.
+  path: Assets/Tiles/SPA_Background brown tint_1.asset
+  artifactKey: Guid(33734c97f2b738a45afde773b4b696af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/SPA_Background brown tint_1.asset using Guid(33734c97f2b738a45afde773b4b696af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67d970f318770a523e158fafebf8311f') in 0.018618 seconds 
+  Import took 0.023849 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.428232 seconds.
+  path: Assets/Tiles/SPA_Background brown tint_2.asset
+  artifactKey: Guid(2b2392882031c2b469dafb9fac25041d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/SPA_Background brown tint_2.asset using Guid(2b2392882031c2b469dafb9fac25041d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b28d3a78f3e90e49e9a140022827abf1') in 0.018227 seconds 
+  Import took 0.025765 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.379984 seconds.
+  path: Assets/Tiles/SPA_Background brown tint_7.asset
+  artifactKey: Guid(969a102d96b020543be1d4ceba84f4ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/SPA_Background brown tint_7.asset using Guid(969a102d96b020543be1d4ceba84f4ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a87404966078aa7994069c339c66804') in 0.013572 seconds 
+  Import took 0.019485 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.544958 seconds.
+  path: Assets/Tiles/SPA_Background brown tint_10.asset
+  artifactKey: Guid(c5fd2ddbf623a0448838167b9c8cb337) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/SPA_Background brown tint_10.asset using Guid(c5fd2ddbf623a0448838167b9c8cb337) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3190c8573db1e489971dfcb2102994a8') in 0.020530 seconds 
+  Import took 0.026036 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.112866 seconds.
+  path: Assets/Tiles/SPA_Rock_Grass_Water_3.asset
+  artifactKey: Guid(869a512d6c0c352448c09e0335029e1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/SPA_Rock_Grass_Water_3.asset using Guid(869a512d6c0c352448c09e0335029e1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '955d2333f9858591c544d6b9639ba91c') in 0.022212 seconds 
+  Import took 0.028127 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.876619 seconds.
+  path: Assets/Tiles/Platform Palette.prefab
+  artifactKey: Guid(68ec93e6c214d5e489a3cd1486138223) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/Platform Palette.prefab using Guid(68ec93e6c214d5e489a3cd1486138223) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '278cb188de2be9e4706647e5679d1479') in 0.116860 seconds 
+  Import took 0.132340 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.416743 seconds.
+  path: Assets/Tiles/SPA_Background brown tint_3.asset
+  artifactKey: Guid(c4d0f789206d82f4eb8976c984c5b69d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/SPA_Background brown tint_3.asset using Guid(c4d0f789206d82f4eb8976c984c5b69d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4db281737e2f576ff5f97389d09d550a') in 0.016352 seconds 
+  Import took 0.024561 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.226407 seconds.
+  path: Assets/Tiles/SPA_Background brown tint_4.asset
+  artifactKey: Guid(1b57c336057ae4c4aa1679ada0060d1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/SPA_Background brown tint_4.asset using Guid(1b57c336057ae4c4aa1679ada0060d1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4575924cea682d77daf586c1afd503e6') in 0.016197 seconds 
+  Import took 0.026540 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.274009 seconds.
+  path: Assets/Tiles/SPA_Background brown tint_5.asset
+  artifactKey: Guid(9b78152f91ada2a44b22e382f250f025) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/SPA_Background brown tint_5.asset using Guid(9b78152f91ada2a44b22e382f250f025) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6969a2b5063bcdc2548cc4c9dcadd39') in 0.031828 seconds 
+  Import took 0.045162 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.210242 seconds.
+  path: Assets/Tiles/SPA_Background brown tint_6.asset
+  artifactKey: Guid(a20a5a605ba79084e9ccbda409473c46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/SPA_Background brown tint_6.asset using Guid(a20a5a605ba79084e9ccbda409473c46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b25b11f34933a6c8f3ec04f44041274') in 0.048484 seconds 
+  Import took 0.054697 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.606908 seconds.
+  path: Assets/Tiles/SPA_Background brown tint_8.asset
+  artifactKey: Guid(46ab4d864ff5d4441b31598db46eeda9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/SPA_Background brown tint_8.asset using Guid(46ab4d864ff5d4441b31598db46eeda9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd47cad0f0e8a887d725a02cddd8525d3') in 0.017191 seconds 
+  Import took 0.022535 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.262265 seconds.
+  path: Assets/Tiles/SPA_Background brown tint_9.asset
+  artifactKey: Guid(f5bd4b78839298d49907122cdca68f77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/SPA_Background brown tint_9.asset using Guid(f5bd4b78839298d49907122cdca68f77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e395b0a4b5bc9a0e79146189db0f83eb') in 0.011966 seconds 
+  Import took 0.019923 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.855665 seconds.
+  path: Assets/Tiles/SPA_Background brown tint_11.asset
+  artifactKey: Guid(82d5a34fb6558a34b8a71216a4929c8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/SPA_Background brown tint_11.asset using Guid(82d5a34fb6558a34b8a71216a4929c8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b717671f30349168a3cc19775394306e') in 0.015039 seconds 
+  Import took 0.024663 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.368290 seconds.
+  path: Assets/Tiles/SPA_Background brown tint_12.asset
+  artifactKey: Guid(87c4e83a99be3804fa726293a5e61ac1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/SPA_Background brown tint_12.asset using Guid(87c4e83a99be3804fa726293a5e61ac1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e9c1f19709ef67cd71252d84c042da3') in 0.021469 seconds 
+  Import took 0.030783 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.291304 seconds.
+  path: Assets/Tiles/SPA_Background brown tint_13.asset
+  artifactKey: Guid(3147e5a47d92f654fa521fef9e6d8c66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/SPA_Background brown tint_13.asset using Guid(3147e5a47d92f654fa521fef9e6d8c66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62514d120d5d28182ccea8cb4cdd69fd') in 0.015410 seconds 
+  Import took 0.022170 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.469857 seconds.
+  path: Assets/Tiles/SPA_Background brown tint_14.asset
+  artifactKey: Guid(659a4fe358798764fb0ee7f10f9cde70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/SPA_Background brown tint_14.asset using Guid(659a4fe358798764fb0ee7f10f9cde70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73db8b0bac8caf07cfe42e0fc571f152') in 0.013515 seconds 
+  Import took 0.020668 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.444495 seconds.
+  path: Assets/Tiles/SPA_Background brown tint_15.asset
+  artifactKey: Guid(97121bc735f27914dac19591c10cbea4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/SPA_Background brown tint_15.asset using Guid(97121bc735f27914dac19591c10cbea4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3697a140b75e7be17a487a7bd2260d2d') in 0.020503 seconds 
+  Import took 0.028203 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.412923 seconds.
+  path: Assets/Tiles/SPA_Rock_Grass_Water_0.asset
+  artifactKey: Guid(05372016086a34c42b8b9eeb2d1d27b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/SPA_Rock_Grass_Water_0.asset using Guid(05372016086a34c42b8b9eeb2d1d27b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa9320d648a87a68d92dba91855f3459') in 0.013748 seconds 
+  Import took 0.023368 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
