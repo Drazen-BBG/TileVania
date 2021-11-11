@@ -135,7 +135,7 @@ GameObject:
   - component: {fileID: 406666849}
   - component: {fileID: 406666848}
   m_Layer: 0
-  m_Name: Tilemap
+  m_Name: Platform TileMap
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -252,7 +252,7 @@ GameObject:
   - component: {fileID: 517872112}
   - component: {fileID: 517872111}
   m_Layer: 0
-  m_Name: Grid
+  m_Name: TileMap Grid
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
